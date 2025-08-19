@@ -1,4 +1,6 @@
 ## Olá, so o Kauê Lázaro👋
+
+###Programo em Frontend
 Estou estudando programação no IFCE, dos vários tipos se liguagens o que mais me adapto é em JS.
 
 
