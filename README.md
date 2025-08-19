@@ -1,5 +1,5 @@
 ## Olá, so o Kauê Lázaro👋
-### Sou desenvolvedor de FrontEnd
+### Sou desenvolvedor de FrontEnd!
 
 Estou estudando programação no IFCE, dos vários tipos se liguagens o que mais me adapto é em JS.
 
